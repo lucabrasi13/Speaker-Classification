@@ -261,27 +261,3 @@ feature['MFCC_features'] = EF_MFCC
 feature['MFCC_pitch'] = EF_P
 savemat('MFCC_features.mat',feature)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
